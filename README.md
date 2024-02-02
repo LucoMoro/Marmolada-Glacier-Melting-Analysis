@@ -11,7 +11,6 @@ Leveraging Google Earth Engine (GEE) and QGIS, this project aims to visualize an
 
 - **QGIS**: For spatial data analysis and visualization.
 - **Google Earth Engine**: For processing satellite imagery and extracting NDSI data.
-- **Python**: For automation of data processing tasks.
 
 ## Data
 
